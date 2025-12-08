@@ -2,7 +2,7 @@ import React from "react";
 
 const App = () => {
     return <div className="client-app">
-        Привет, Mr Twist!
+        Client App
     </div>
 }
 
