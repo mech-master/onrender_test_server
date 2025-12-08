@@ -17,7 +17,7 @@ import App from "../client/App";
 
 
 const isProduction = process.env.NODE_ENV === "production";
-const PORT = process.env.PROT || 3000;
+const PORT = process.env.PORT || 3000;
 
 
 //Создание сервера
